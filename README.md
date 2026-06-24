@@ -92,7 +92,7 @@ Determined how many playlists each track appears in.
 
 1. Download the Chinook database.
 2. Open the database in SQLite, MySQL, or VS Code.
-3. Run the queries from `chinook_queries.sql`.
+3. Run the queries from `SQLProject.sql`.
 4. Compare the results with the screenshots in the `outputs` folder.
 
 ---
