@@ -108,6 +108,5 @@ Determined how many playlists each track appears in.
 ## Author
 Muhammad Safwan
 
-## Author
 
-SQL Data Analysis Project using the Chinook Database.
+.
